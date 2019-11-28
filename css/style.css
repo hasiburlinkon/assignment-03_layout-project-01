@@ -1,0 +1,38 @@
+.logo{
+	width: 100%;
+	min-height: 80px;
+	background-color: red;
+}
+.navigation{
+	width: 100%;
+	min-height: 60px;
+	background-color: blue;
+}
+.header{
+	width: 100%;
+	min-height: 150px;
+	background-color: violet;
+}
+.container{
+	width: 100%;
+	overflow: hidden;
+}
+.sidebar{
+	float: left;
+	width: 20%;
+	min-height: 350px;
+	background-color: green;
+	border: 5px lightblue dashed;
+}
+.bodyarea{
+	float: right;
+	width: 78.5%;
+	min-height: 350px;
+	background-color: cyan;
+	border: 5px green dashed;
+}
+.footer{
+	width: 100%;
+	min-height: 40px;
+	background-color: orange;
+}
